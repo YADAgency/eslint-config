@@ -1,6 +1,6 @@
 {
   "name": "@yadagency/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YADA's eslint configs",
   "main": "index.js",
   "repository": "git@github.com:YADAgency/eslint-config.git",
